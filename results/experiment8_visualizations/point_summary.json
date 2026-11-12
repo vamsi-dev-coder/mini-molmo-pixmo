@@ -1,0 +1,6 @@
+{
+  "experiment": 8,
+  "num_images": 8,
+  "mean_point_error": 0.21462149678511425,
+  "checkpoint": "checkpoints/experiment8_unique_objects.pt"
+}

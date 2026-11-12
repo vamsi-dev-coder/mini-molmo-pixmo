@@ -1,0 +1,5 @@
+{
+  "num_images": 20,
+  "caption_token_f1_mean": 0.1728277712758834,
+  "point_mean_normalized_euclidean_error": 0.21519574128688163
+}

@@ -1,0 +1,6 @@
+transformers>=4.44,<5
+Pillow>=10
+requests>=2.31
+tqdm>=4.66
+numpy>=1.26
+matplotlib>=3.8

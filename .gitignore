@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Model checkpoints
+checkpoints/*.pt
+checkpoints/*.pth
+
+# Dataset images
+data/images/
+
+# Downloaded datasets and archives
+*.zip
+
+# Cache
+.cache/
+.cache_huggingface/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+.DS_Store

@@ -1,0 +1,7 @@
+{
+  "experiment": 5,
+  "num_images": 20,
+  "num_point_evaluations": 20,
+  "caption_token_f1_mean": 0.15529702273813023,
+  "point_mean_normalized_euclidean_error": 0.23605788614599676
+}

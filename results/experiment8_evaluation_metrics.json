@@ -1,0 +1,8 @@
+{
+  "experiment": 8,
+  "checkpoint": "checkpoints/experiment8_unique_objects.pt",
+  "num_images": 18,
+  "num_point_evaluations": 18,
+  "caption_token_f1_mean": 0.14218765645298273,
+  "point_mean_normalized_euclidean_error": 0.2347533394592375
+}

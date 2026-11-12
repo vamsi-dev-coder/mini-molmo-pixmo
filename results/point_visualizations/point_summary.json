@@ -1,0 +1,5 @@
+{
+  "num_images": 8,
+  "mean_point_error": 0.2205515970915279,
+  "checkpoint": "checkpoints/experiment7_expanded_data.pt"
+}
